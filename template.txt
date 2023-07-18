@@ -1,0 +1,24 @@
+Serial Number: 			
+Number of Batteries:  	
+Ports: 			        
+Extras: 				
+
+
+Memory
+stage - position - label
+
+
+
+
+
+Wire Sequence
+Red		
+Blue	
+Black	
+
+
+
+Passwords
+
+
+

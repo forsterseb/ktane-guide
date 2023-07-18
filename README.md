@@ -15,7 +15,7 @@ Otherwise - 2nd
 
 **5 Wires**  
 Last Black & SN odd - 4th  
-No Black or Red - 2nd  
+No Black or No Red - 2nd  
 Otherwise - 1st  
 
 **6 Wires**  
