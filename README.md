@@ -36,10 +36,10 @@ Yellow - 5
 Other - 1  
 
 ## Keypads
-![](./imgs/keypads.png)
+<img width=400 src="./imgs/Keypads.png"></img>
 
 ## Simon Says
-![](./imgs/SimonSays.png)
+<img width=300 src="./imgs/SimonSays.png"></img>
 
 ## Who's on First
 ![](./imgs/WhosOnFirst1.png)
@@ -77,10 +77,10 @@ Other - 1
 4: Same number as Stage 3  
 
 ## Morse Code
-![](./imgs/MorseCode.png)
+<img width=500 src="./imgs/Morse.png"></img>
 
 ## Complicated Wires
-![](./imgs/ComplicatedWires.png)
+<img width=500 src="./imgs/ComplicatedWires.png"></img>
 
 ## Wire Sequence
 [https://ktane.timwi.de/HTML/Wire%20Sequence.html](https://ktane.timwi.de/HTML/Wire%20Sequence.html) Mark with Shift+Click
