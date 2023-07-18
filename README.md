@@ -77,7 +77,7 @@ Other - 1
 4: Same number as Stage 3  
 
 ## Morse Code
-<img width=500 src="./imgs/Morse.png"></img>
+<img width=500 src="./imgs/MorseCode.png"></img>
 
 ## Complicated Wires
 <img width=500 src="./imgs/ComplicatedWires.png"></img>
@@ -93,7 +93,6 @@ Other - 1
 ![](./imgs/Passwords.png)
 
 ## Needys
-
 ### Venting Gas
 Detonate - N  
 Vent Gas - Y
